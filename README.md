@@ -7,9 +7,8 @@
 
 # screenshots
 
-![screenshot]()
-![screenshot]()
-![screenshot]()
+![screenshot](https://github.com/Matthewlgrimes94/Notes/blob/master/Develop/public/assets/screenshots/Screenshot%20(34).png)
+![screenshot](https://github.com/Matthewlgrimes94/Notes/blob/master/Develop/public/assets/screenshots/Screenshot%20(35).png)
 
 # resources
 
