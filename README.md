@@ -1,6 +1,6 @@
 # Notes
 
-# A notes app that lets you take notes, save and delete them!\
+# A notes app that lets you take notes, save and delete them!
 
 # Link
 * 
